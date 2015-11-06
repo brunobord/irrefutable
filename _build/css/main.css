@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Roboto:400,700);
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    padding: 7px 0 4px 10px;
+    font-family: "Roboto", sans-serif;
+}
+blockquote p {
+    font-style: italic;
+}
+
+/* Structure */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+header {
+}
+section#content {
+	padding-top: 2em;
+}
+footer {
+	padding-top: 19px;
+	font-size: .7em;
+	color: #777;
+	border-top: 1px solid #e5e5e5;
+    text-align: right;
+}
