@@ -1,0 +1,14 @@
+meta:
+    build_path: _build
+context:
+    site_title: Irréfutable
+    footer: |
+        Ce jeu est l'oeuvre de Bruno Bord &copy; 2015.
+
+        Publié [sous contrat Creative Commons - CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.fr). Conçu dans le cadre du [NaGaDeMon 2015](http://nagademon.com/2015-2/)
+
+pages:
+    -
+        name: irrefutable
+        title: Règles du jeu
+        target: index
