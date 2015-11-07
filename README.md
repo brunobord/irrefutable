@@ -4,7 +4,7 @@
 
 Le système peut être résumé comme suit :
 
-0\. Le 1er joueur affirme quelque chose, puis pose une question,  
+0\. Le premier joueur affirme quelque chose, puis pose une question,  
 1\. Le suivant y répond, et pose une nouvelle question,  
 2\. Aller en 1, jusqu'à ce que l'histoire soit terminée.
 
