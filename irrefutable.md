@@ -104,6 +104,9 @@ Cet échange ne serait pas acceptable, par exemple :
 
 Même si ça peut paraître difficile, la *réponse* ne devrait jamais être *"je ne sais pas"* ou *"peut-être"*. Pour être **irréfutable**, une *réponse* doit être aussi claire et complète que possible.
 
+#### Variante au veto
+
+Au lieu d'exiger l'unanimité pour le *veto*, on peut essayer un vote par *consentement* : la *réponse* donnée est **irréfutable** dès lors que personne ne dit "non". Le simple fait de dire "bof" n'est pas éliminatoire. Après tout, même sur une affirmation jugée bancale au départ, on peut broder une histoire rocambolesque qui amusera toute la tablée. Ce n'est que dans le cas où au moins un des joueurs se sent incapable d'accepter **l'irréfutabilité** de cette *réponse* qu'on demandera une reformulation.
 
 #### Quelle conclusion ?
 
